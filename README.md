@@ -36,4 +36,9 @@ O repositório deve conter:
 ## Observações
 
 Este repositório não é a aplicação em si, mas sim um armazenamento de mídia para o site. Ele deve ser usado apenas para arquivos estáticos e de imagem.
+
+## URL Padrão para chamar as imagens
  
+```
+https://cdn.jsdelivr.net/gh/FelipeKogake/Storage-BuosDilos-s@main/caminho/foto.jpg
+```
